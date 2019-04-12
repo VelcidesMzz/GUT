@@ -1,0 +1,38 @@
+{
+  "faculdades": [
+    {
+      "nome": "UFPA",
+      "cursos": [
+        {
+          "nome": "Engenharia de Computação",
+          "grau": "Bacharel",
+          "modalidade": "Presencial",
+          "duracao": "5 Anos",
+          "periodo": "Matutino/Vespertino",
+          "ppc": "http://www.ppc.proeg.ufpa.br/view/_paginas/_downloadAnexoProjeto.php?id=639&idProjeto=71"
+        },
+        {
+          "nome": "Engenharia Sanitária e Ambiental",
+          "grau": "Bacharel",
+          "modalidade": "Presencial",
+          "duracao": "5 Anos",
+          "periodo": "Matutino/Vespertino",
+          "ppc": "http://www.ppc.proeg.ufpa.br/view/_paginas/_downloadAnexoProjeto.php?id=641&idProjeto=90"
+        },
+        {
+          "nome": "Engenharia Elétrica",
+          "grau": "Bacharel",
+          "modalidade": "Presencial",
+          "duracao": "5 Anos",
+          "periodo": "Matutino/Vespertino",
+          "ppc": "http://www.camtuc.ufpa.br/images/Downloads/Doc_Faculdades/Doc_Eletrica/4302%20PPC%20Eng%20Eletrica%20Tucurui.pdf"
+        }
+      ],
+      "informacoes": [
+        "http://www.camtuc.ufpa.br/",
+        "https://www.google.com/maps/place/Campus+Universit%C3%A1rio+de+Tucuru%C3%AD+-+UFPA/@-3.8300252,-49.6636331,15z/data=!4m2!3m1!1s0x0:0x1828dc1bcc7009a5?sa=X&ved=2ahUKEwj8ib-pzMjhAhVBIbkGHRebA6UQ_BIwDXoECAgQCA",
+        "academicacamtuc@gmail.com"
+      ]
+    }
+  ]
+}
