@@ -2,17 +2,56 @@
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Guia Universitário Tucuruí</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+	<style type="text/css">
+		body{
+			background-image: linear-gradient(to bottom right, #01ADEF, #98DBF5);
+			background-size: contain;
+		
+		}
+		#app {
+			max-width: 960px;
+			height: auto;
+			margin: 0 auto;
+			position: relative;
+			display: block;
+			top: 100px;
+		}
+		#app h1{
+			text-align: center;
+			color: #fff;
+		}
+	</style>
 </head>
 <body>
+	<div id="app">
+		<h1>Guia Universitário Tucuruí</h1>
+  <form>
+  <div class="form-group">
 
+    <input class="form-control input-lg" id="inputlg" type="text" placeholder="Informe o curso que deseja procurar ou deixe em branco para listar todos">
+    <button type="button" class="btn btn-warning btn-lg" id="button" style="margin-top: 5px;">Buscar</button>
+  </div>
+</form>
+    
+	
+    <div class="table-responsive" style="overflow: auto;">
+  		<table class="table table-bordered table-striped table-hover" id="tabela_curso">
+   			<tr class="active">
 
-
-
-
-
-
-	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+   				<th>Curso</th>
+   				<th>Grau</th>
+   				<th>Modalidade</th>
+   				<th>Duração</th>
+   				<th>+Info</th>
+   			</tr>
+  		</table>
+	</div>
+</div>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="app.js"></script>
 </body>
 </html>
