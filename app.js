@@ -2,10 +2,14 @@ $(document).ready(function(){
 	$(function (){
 	$.ajax({
 		type: 'GET',
-		url: 'https://api.myjson.com/bins/noykr',
+		url: 'https://api.jsonbin.io/v3/b/60c0cfc79fc30168f1cae176',
+		headers:{
+    			"X-Master-Key":"$2b$10$UQHXlckxYv/6Ox617tJzWeJbIMis2xSjnSIMEaE3hFNPXxkGe538q"
+		},
 		success: function(data) {
 			//console.log(data.faculdades);
-			var faculdades = data.faculdades;
+			var faculdades = data.record.faculdades;
+			// console.log(faculdades);
 			var cursos_faculdades = [];
 			$.each(faculdades,function(key, faculdade){
 				cursos = faculdade.cursos;
@@ -44,6 +48,7 @@ $(document).ready(function(){
 			$("#button").click(function(){
 				$('#tabela_curso tr:nth-child(n+2):nth-child(n-1)').html("");
 				busca_curso();
+				// alert("clicked!");
 				
 			});
 			
