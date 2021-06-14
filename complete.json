@@ -4,344 +4,467 @@
       "nome": "Unisa",
       "cursos": [
         {
-          "nome": "Administração",
+          "nome": "Administração (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "4 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Administracao-503"
         },
         {
-          "nome": "Arquitetura e Urbanismo",
+          "nome": "Arquitetura e Urbanismo (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Arquitetura-e-Urbanismo-3218"
         },
         {
-          "nome": "Ciências Biológicas",
+          "nome": "Ciências Biológicas (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Ciencias-Biologicas---Biologia-%28Licenciatura%29-2717"
         },
         {
-          "nome": "Ciências Contábeis",
+          "nome": "Ciências Contábeis (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Presencial",
+          "modalidade": "A Distância",
           "duracao": "4 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Ciencias-Contabeis-504"
         },
         {
-          "nome": "Estética e Cosmética",
+          "nome": "Estética e Cosmética (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2.5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Estetica-e-Cosmetica-2376"
         },
         {
-          "nome": "Gestão da Tecnologia da Informação",
+          "nome": "Gestão da Tecnologia da Informação (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2.5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/Presencial/Tecnologica/Gestao-de-Tecnologia-da-Informacao-141"
         },
         {
-          "nome": "Gestão de Recursos Humanos",
+          "nome": "Gestão de Recursos Humanos (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-de-Recursos-Humanos-516"
         },
         {
-          "nome": "Gestão Financeira",
+          "nome": "Gestão Financeira (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-Financeira-520"
         },
         {
-          "nome": "Logística",
+          "nome": "Logística (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Logistica-511"
         },
         {
-          "nome": "Análise e Desenvolvimento de Sistemas",
+          "nome": "Análise e Desenvolvimento de Sistemas (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2.5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Analise-e-Desenvolvimento-de-Sistemas-2034"
         },
         {
-          "nome": "Gestão Ambiental",
+          "nome": "Gestão Ambiental (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-Ambiental-2723"
         },
         {
-          "nome": "Gestão Comercial",
+          "nome": "Gestão Comercial (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-Comercial-514"
         },
         {
-          "nome": "Gestão da Produção Industrial",
+          "nome": "Gestão da Produção Industrial (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-da-Producao-Industrial-2036"
         },
         {
-          "nome": "Gestão da Qualidade",
+          "nome": "Gestão da Qualidade (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-da-Qualidade-515"
         },
         {
-          "nome": "Gestão de Cooperativas",
+          "nome": "Gestão do Agronegócio (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
-          "duracao": "2 Anos",
-          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-de-Cooperativas-2035"
-        },
-        {
-          "nome": "Gestão do Agronegócio",
-          "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-em-Agronegocio-2426"
         },
         {
-          "nome": "Gestão Hospitalar",
+          "nome": "Gestão Hospitalar (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância (Unisa)",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-Hospitalar-2254"
         },
         {
-          "nome": "Marketing",
+          "nome": "Marketing (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Marketing-519"
         },
         {
-          "nome": "Processos Escolares",
+          "nome": "Processos Escolares (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Processos-Escolares-2037"
         },
         {
-          "nome": "Processos Gerenciais",
+          "nome": "Processos Gerenciais (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Processos-Gerenciais-512"
         },
         {
-          "nome": "Segurança da Informação",
+          "nome": "Segurança da Informação (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2.5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Seguranca-da-Informacao-2038"
         },
         {
-          "nome": "Segurança do Trabalho",
+          "nome": "Segurança do Trabalho (Unisa)",
           "grau": "Tecnologo",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "2.5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Seguranca-no-Trabalho-513"
         },
         {
-          "nome": "Educação Fisica",
+          "nome": "Educação Fisica (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "4 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Educacao-Fisica-%28Bacharelado%29-2425"
         },
         {
-          "nome": "Educação Fisica",
+          "nome": "Educação Fisica (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Educacao-Fisica-%28Licenciatura%29-2353"
         },
         {
-          "nome": "Engenharia Ambiental",
+          "nome": "Engenharia Ambiental (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-Ambiental-500"
         },
         {
-          "nome": "Engenharia Civil",
+          "nome": "Engenharia Civil (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-Civil-501"
         },
         {
-          "nome": "Engenharia de Produção",
+          "nome": "Engenharia de Produção (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-de-Producao-502"
         },
         {
-          "nome": "Engenharia Elétrica",
+          "nome": "Engenharia Elétrica (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-Eletrica-2694"
         },
         {
-          "nome": "Engenharia Mecânica",
+          "nome": "Engenharia Mecânica (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-Mecanica-2695"
         },
         {
-          "nome": "Engenharia Quimica",
+          "nome": "Engenharia Quimica (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "5 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-Quimica-2693"
         },
         {
-          "nome": "Filosofia",
+          "nome": "Filosofia (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Filosofia-2273"
         },
         {
-          "nome": "Geografia",
+          "nome": "Geografia (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Geografia-506"
         },
         {
-          "nome": "História",
+          "nome": "História (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Historia-505"
         },
         {
-          "nome": "Letras",
+          "nome": "Letras (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Letras-%28Portugues%29-507"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Matematica-2278"
         },
         {
-          "nome": "Pedagogia",
+          "nome": "Pedagogia (Unisa)",
           "grau": "Licenciatura",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "3 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Pedagogia-508"
         },
         {
-          "nome": "Serviço Social",
+          "nome": "Serviço Social (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "4 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Servico-Social-510"
         },
         {
-          "nome": "Teologia",
+          "nome": "Teologia (Unisa)",
           "grau": "Bacharel",
-          "modalidade": "Distância",
+          "modalidade": "A Distância",
           "duracao": "4 Anos",
           "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Teologia-3351"
+        },
+        {
+          "nome": "Engenharia da Computação (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-da-Computacao-3970"
+        },
+        {
+         "nome": "Engenharia de Software (Unisa)",
+         "grau": "Bacharel",
+         "modalidade": "A Distância",
+         "duracao": "4 Anos",
+         "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-de-Software-3980"
+       },
+       {
+         "nome": "Engenharia Mecatrônica (Unisa)",
+         "grau": "Bacharel",
+         "modalidade": "A Distância",
+         "duracao": "5 Anos",
+         "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Exatas/Engenharia-Mecatronica-3989"
+       },
+       {
+         "nome": "Artes Visuais (Unisa)",
+         "grau": "Licenciatura",
+         "modalidade": "A Distância",
+         "duracao": "4 Anos",
+         "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Artes-Visuais-3952"
+       },
+       {
+          "nome": "Ciências Econômicas (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Ciencias-Economicas-499"
+        },
+        {
+          "nome": "História para Licenciados (2ª Licenciatura) (Unisa)",
+          "grau": "Licenciatura",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Historia-para-Licenciados-%282%AA-Licenciatura%29-2389"
+        },
+        {
+          "nome": "Pedagogia para Licenciados (2ª Licenciatura) (Unisa)",
+          "grau": "Licenciatura",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Pedagogia-para-Licenciados-%282%AA-Licenciatura%29-509"
+        },
+        {
+          "nome": "Psicopedagogia (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Ciencias-Humanas-e-Sociais/Psicopedagogia-4256"
+        },
+        {
+          "nome": "Biomedicina (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Biomedicina-3943"
+        },
+        {
+          "nome": "Ciências Biológicas - Biologia (Bacharelado) (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Ciencias-Biologicas---Biologia-%28Bacharelado%29-4273#"
+        },
+        {
+          "nome": "Farmácia (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Farmacia-4007"
+        },
+        {
+          "nome": "Fisioterapia (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Fisioterapia-4016"
+        },
+        {
+          "nome": "Nutrição (Unisa)",
+          "grau": "Bacharel",
+          "modalidade": "A Distância",
+          "duracao": "4 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Biologicas-e-da-Saude/Nutricao-4025"
+        },
+        {
+          "nome": "Comércio Exterior (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Comercio-Exterior-1993"
+        },
+        {
+          "nome": "Design de Interiores (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Design-de-Interiores-3961"
+        },
+        {
+          "nome": "Eventos (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Eventos-3998"
+        },
+        {
+          "nome": "Gastronomia (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gastronomia-4053"
+        },
+        {
+          "nome": "Gestão de Segurança Privada (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-de-Seguranca-Privada-4044"
+        },
+        {
+          "nome": "Gestão de Turismo (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-de-Turismo-518"
+        },
+        {
+          "nome": "Gestão Pública (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Gestao-Publica-521"
+        },
+        {
+          "nome": "Serviços Jurídicos, Cartoriais e Notariais (Unisa)",
+          "grau": "Tecnólogo",
+          "modalidade": "A Distância",
+          "duracao": "2 Anos",
+          "ppc": "http://www.unisa.br/CURSOS/Graduacao/A-Distancia/Tecnologica/Servicos-Juridicos%2C-Cartoriais-e-Notariais-4035"
         }
       ],
       "informacoes": [
-        "Rua Um, nº s/n, Tucuruí, PA",
-        "https://www.google.com/maps/place/Unisa+P%C3%B3lo+Tucuru%C3%AD/@-3.7791477,-49.6775147,17z/data=!3m1!4b1!4m5!3m4!1s0x92bf8cc14855d83f:0x8d565c934f86e84d!8m2!3d-3.7791531!4d-49.675326?hl=pt-BR",
-        "unisa.br",
-        "+55 800 580 0603"
+        "Travessa W Um, nº s/n, Tucuruí, PA"
+        "(94)98165-1890"
       ]
     },
     {
       "nome": "Pitágoras",
       "cursos": [
         {
-          "nome": "Engenharia Civil",
+          "nome": "Direito (Pitágoras)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "5 Anos",
-          "ppc": "http://www.faculdadepitagoras.com.br/Paginas/Detalhes-do-Curso.aspx?CD=704&Curso=Engenharia%20Civil"
-        },
-        {
-          "nome": "Engenharia Elétrica",
-          "grau": "Bacharel",
-          "modalidade": "Presencial",
-          "duracao": "5 Anos",
-          "ppc": "http://www.faculdadepitagoras.com.br/Paginas/Detalhes-do-Curso.aspx?CD=707&Curso=Engenharia%20El%C3%A9trica"
-        },
-        {
-          "nome": "Engenharia Mecânica",
-          "grau": "Bacharel",
-          "modalidade": "Presencial",
-          "duracao": "5 Anos",
-          "ppc": "http://www.faculdadepitagoras.com.br/Paginas/Detalhes-do-Curso.aspx?CD=705&Curso=Engenharia%20Mec%C3%A2nica"
-        },
-        {
-          "nome": "Engenharia de Produção",
-          "grau": "Bacharel",
-          "modalidade": "Presencial",
-          "duracao": "5 Anos",
-          "ppc": "http://www.faculdadepitagoras.com.br/Paginas/Detalhes-do-Curso.aspx?CD=706&Curso=Engenharia%20Produ%C3%A7%C3%A3o"
+          "ppc": "https://www.pitagoras.com.br/unidade/tucuruipa/"
         }
       ],
       "informacoes": [
-        "Rodovia BR 422, nº 1A, Bairro Santa Mônica, Tucuruí - Pará, Brasil",
-        "www.google.com/maps/place/Pit%C3%A1goras/@-3.7775491,-49.6786184,17z/data=!3m1!4b1!4m5!3m4!1s0x92bf8cc40c2b3561:0x91c43ad7b35692ed!8m2!3d-3.7775545!4d-49.6764297?hl=pt-BR",
-        "www.faculdadepitagoras.com.br/Paginas/Detalhes-da-Unidade.aspx?UID=52",
-        "(94) 3787-8080"
+        "Rua A, Jardim Paraíso,Tucuruí - PA, Brasil",
+        "https://www.pitagoras.com.br/unidade/tucuruipa/",
+        "0800 881 4142"
       ]
     },
     {
       "nome": "Universidade Do Estado Do Pará - UEPA",
       "cursos": [
         {
-          "nome": "Biologia",
+          "nome": "Pedagogia (UEPA)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "Presencial",
+          "ppc": "http://www.uepa.br/pt-br/pagina/ccse-0"
+        },
+        {
+          "nome": "Biologia (UEPA)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Presencial",
           "ppc": "http://www.uepa.br/pt-br/pagina/ccse-0"
         },
         {
-          "nome": "Educação Fisica",
+          "nome": "Educação Fisica (UEPA)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Presencial",
           "ppc": "http://www.uepa.br/pt-br/pagina/centro-de-ci%C3%AAncias-biol%C3%B3gicas-e-da-sa%C3%BAde"
         },
         {
-          "nome": "Enfermagem",
+          "nome": "Enfermagem (UEPA)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Presencial",
           "ppc": "http://www.uepa.br/pt-br/pagina/centro-de-ci%C3%AAncias-biol%C3%B3gicas-e-da-sa%C3%BAde"
         },
         {
-          "nome": "Fisioterapia",
+          "nome": "Fisioterapia (UEPA)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Presencial",
@@ -360,350 +483,350 @@
       "nome": "Universidade Norte Do Paraná - UNOPAR",
       "cursos": [
         {
-          "nome": "Administração",
+          "nome": "Administração (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/administracao"
         },
         {
-          "nome": "Agronomia",
+          "nome": "Agronomia (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/agronomia/"
         },
         {
-          "nome": "Agronegócio",
+          "nome": "Agronegócio (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Análise e Desenvolvimento de Sistemas",
+          "nome": "Análise e Desenvolvimento de Sistemas (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/analise-desenvolvimento-sistemas"
         },
         {
-          "nome": "Biomedicina",
+          "nome": "Biomedicina (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/biomedicina"
         },
         {
-          "nome": "Ciências Biológicas",
+          "nome": "Ciências Biológicas (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/ciencias-biologicas"
         },
         {
-          "nome": "Ciências Contábeis",
+          "nome": "Ciências Contábeis (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/ciencias-contabeis"
         },
         {
-          "nome": "Ciências Econômicas",
+          "nome": "Ciências Econômicas (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/economia/"
         },
         {
-          "nome": "Comercio Exterior",
+          "nome": "Comercio Exterior (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Educação Física",
+          "nome": "Educação Física (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/educacao-fisica-bacharelado"
         },
         {
-          "nome": "Educação Física",
+          "nome": "Educação Física (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/educacao-fisica-licenciatura/"
         },
         {
-          "nome": "Empreendedorismo",
+          "nome": "Empreendedorismo (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/empreendedorismo"
         },
         {
-          "nome": "Enfermagem",
+          "nome": "Enfermagem (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/enfermagem"
         },
         {
-          "nome": "Engenharia Civil",
+          "nome": "Engenharia Civil (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/engenharia-civil"
         },
         {
-          "nome": "Engenharia de Computacao",
+          "nome": "Engenharia de Computacao (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/engenharia-computacao"
         },
         {
-          "nome": "Engenharia de Producao",
+          "nome": "Engenharia de Producao (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/engenharia-producao"
         },
         {
-          "nome": "Engenharia Eletrica",
+          "nome": "Engenharia Eletrica (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/engenharia-eletrica"
         },
         {
-          "nome": "Engenharia Mecanica",
+          "nome": "Engenharia Mecanica (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Farmacia",
+          "nome": "Farmacia (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/farmacia"
         },
         {
-          "nome": "Filosofia",
+          "nome": "Filosofia (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/farmacia"
         },
         {
-          "nome": "Fisica",
+          "nome": "Fisica (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/fisica"
         },
         {
-          "nome": "Fisioterapia",
+          "nome": "Fisioterapia (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/bacharelado-fisioterapia/"
         },
         {
-          "nome": "Geografia",
+          "nome": "Geografia (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/geografia"
         },
         {
-          "nome": "Gestão Ambiental",
+          "nome": "Gestão Ambiental (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/gestao-ambiental"
         },
         {
-          "nome": "Gestão Comercial",
+          "nome": "Gestão Comercial (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/gestao-comercial"
         },
         {
-          "nome": "Gestão da ProduçãoIndustrial",
+          "nome": "Gestão da ProduçãoIndustrial (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Gestão de Turismo",
+          "nome": "Gestão de Turismo (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Gestão Financeira",
+          "nome": "Gestão Financeira (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/gestao-financeira"
         },
         {
-          "nome": "Gestão Hospitalar",
+          "nome": "Gestão Hospitalar (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/gestao-hospitalar"
         },
         {
-          "nome": "Gestão Pública",
+          "nome": "Gestão Pública (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/gestao-publica"
         },
         {
-          "nome": "História",
+          "nome": "História (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/historia"
         },
         {
-          "nome": "Letras - Português",
+          "nome": "Letras - Português (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/letras"
         },
         {
-          "nome": "Letras - Português e Espanhol",
+          "nome": "Letras - Português e Espanhol (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Letras - Português e Inglês",
+          "nome": "Letras - Português e Inglês (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Logística",
+          "nome": "Logística (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Marketing",
+          "nome": "Marketing (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/marketing"
         },
         {
-          "nome": "Marketing Digital",
+          "nome": "Marketing Digital (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/marketing-digital"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/matematica"
         },
         {
-          "nome": "Nutrição",
+          "nome": "Nutrição (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/nutricao"
         },
         {
-          "nome": "Pedagogia",
+          "nome": "Pedagogia (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/pedagogia"
         },
         {
-          "nome": "Processos Gerenciais",
+          "nome": "Processos Gerenciais (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/processos-gerenciais"
         },
         {
-          "nome": "Publicidade e Propaganda",
+          "nome": "Publicidade e Propaganda (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Química",
+          "nome": "Química (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/quimica"
         },
         {
-          "nome": "Recursos Humanos",
+          "nome": "Recursos Humanos (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/gestao-recursos-humanos"
         },
         {
-          "nome": "Serviço Social",
+          "nome": "Serviço Social (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.unoparead.com.br/graduacao/servico-social"
         },
         {
-          "nome": "Sociologia",
+          "nome": "Sociologia (UNOPAR)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/sociologia"
         },
         {
-          "nome": "Segurança no Trabalho",
+          "nome": "Segurança no Trabalho (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Segurança Pública",
+          "nome": "Segurança Pública (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.unoparead.com.br/graduacao/seguranca-publica"
         },
         {
-          "nome": "Serviços Jurídicos, Cartorários e Notariais",
+          "nome": "Serviços Jurídicos, Cartorários e Notariais (UNOPAR)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "https://polos.unoparead.com.br/tucurui-pa"
         },
         {
-          "nome": "Teologia",
+          "nome": "Teologia (UNOPAR)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
@@ -722,147 +845,147 @@
       "nome": "Centro Universitário Campos de Andrade - UNIANDRADE",
       "cursos": [
         {
-          "nome": "Administração",
+          "nome": "Administração (UNIANDRADE)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/bacharelado-em-administracao/"
         },
         {
-          "nome": "Ciências Contábeis",
+          "nome": "Ciências Contábeis (UNIANDRADE)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/ciencias-contabeis/"
         },
         {
-          "nome": "Ciências Econômicas",
+          "nome": "Ciências Econômicas (UNIANDRADE)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/ciencias-economicas/"
         },
         {
-          "nome": "Geografia",
+          "nome": "Geografia (UNIANDRADE)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/geografia/"
         },
         {
-          "nome": "Gestão Ambiental",
+          "nome": "Gestão Ambiental (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/gestao-ambiental/"
         },
         {
-          "nome": "Gestão Comercial",
+          "nome": "Gestão Comercial (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/gestao-comercial/"
         },
         {
-          "nome": "Gestão de Qualidade",
+          "nome": "Gestão de Qualidade (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/gestao-da-qualidade/"
         },
         {
-          "nome": "Gestão de Recursos Humanos",
+          "nome": "Gestão de Recursos Humanos (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/recursos-humanos/"
         },
         {
-          "nome": "Gestão de Turismo",
+          "nome": "Gestão de Turismo (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/turismo/"
         },
         {
-          "nome": "Gestão Financeira",
+          "nome": "Gestão Financeira (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/gestao-financeira/"
         },
         {
-          "nome": "Gestão Hospitalar",
+          "nome": "Gestão Hospitalar (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/gestao-hospitalar/"
         },
         {
-          "nome": "Gestão Pública",
+          "nome": "Gestão Pública (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/gestao-publica/"
         },
         {
-          "nome": "História",
+          "nome": "História (UNIANDRADE)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/historia/"
         },
         {
-          "nome": "Letras Portugês/Literatura",
+          "nome": "Letras Portugês/Literatura (UNIANDRADE)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/letras-portuguesliteratura/"
         },
         {
-          "nome": "Logística",
+          "nome": "Logística (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/logistica/"
         },
         {
-          "nome": "Marketing",
+          "nome": "Marketing (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/marketing/"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (UNIANDRADE)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/matematica/"
         },
         {
-          "nome": "Pedagogia",
+          "nome": "Pedagogia (UNIANDRADE)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/pedagogia/"
         },
         {
-          "nome": "Processos Gerenciais",
+          "nome": "Processos Gerenciais (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/processos-gerenciais/"
         },
         {
-          "nome": "Secretariado",
+          "nome": "Secretariado (UNIANDRADE)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
           "ppc": "http://www.uniandrade.br/cursos_ead/secretariado/"
         },
         {
-          "nome": "Serviço Social",
+          "nome": "Serviço Social (UNIANDRADE)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
@@ -881,924 +1004,995 @@
       "nome": "Gamaliel",
       "cursos": [
         {
-          "nome": "Administração",
+          "nome": "Administração (Gamaliel)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Presencial",
-          "ppc": "http://portal.faculdadegamaliel.com.br/courses/bacharelado-em-administracao/"
+          "ppc": "https://faculdadegamaliel.com.br/adm/"
         },
         {
-          "nome": "Direito",
+          "nome": "Direito (Gamaliel)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Presencial",
-          "ppc": "http://portal.faculdadegamaliel.com.br/courses/bacharelado-em-direito/"
+          "ppc": "https://faculdadegamaliel.com.br/direito/"
         },
         {
-          "nome": "Enfermagem",
+          "nome": "Enfermagem (Gamaliel)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Presencial",
-          "ppc": "http://portal.faculdadegamaliel.com.br/courses/bacharelado-em-enfermagem/"
+          "ppc": "https://faculdadegamaliel.com.br/enfermagem/"
         },
         {
-          "nome": "Estética e Cosmética",
-          "grau": "Técnico",
+          "nome": "Estética e Cosmética (Gamaliel)",
+          "grau": "Tecnólog",
           "duracao": "3 Anos",
           "modalidade": "A distância",
-          "ppc": "http://portal.faculdadegamaliel.com.br/courses/tecnologia-em-estetica-e-cosmetica/"
+          "ppc": "https://faculdadegamaliel.com.br/estetica-e-cosmetica/"
         },
-         {
-          "nome": "Pedagogia",
-          "grau": "Licenciatura",
-          "duracao": "3 Anos",
-          "modalidade": "A distância",
-          "ppc": "http://portal.faculdadegamaliel.com.br/courses/licenciatura-em-pedagogia-100-web/"
-        },
-         {
-          "nome": "Pedagogia",
+        {
+          "nome": "Pedagogia (Gamaliel)",
           "grau": "Licenciatura",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial",
-          "ppc": "http://portal.faculdadegamaliel.com.br/courses/licenciatura-em-pedagogia-semipresencial/"
-         }
+          "ppc": "https://faculdadegamaliel.com.br/licenciatura-pedagogia/"
+         },
+         {
+          "nome": "Odontologia (Gamaliel)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "Presencial",
+          "ppc": "https://faculdadegamaliel.com.br/odontologia/"
+         },
+         {
+          "nome": "Artes Visuais (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/artes-visuais/"
+        },
+        {
+          "nome": "Ciências Biológicas (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/ciencias-biologicas/"
+        },
+        {
+          "nome": "Educação Especial (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/educacao-especial/"
+        },
+        {
+          "nome": "Educação Física (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/educacao-fisica/"
+        },
+        {
+          "nome": "Ensino Religioso (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/ensino-religioso/"
+        },
+        {
+          "nome": "Filosofia (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/filosofia/"
+        },
+        {
+          "nome": "Física (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/fisica/"
+        },
+        {
+          "nome": "Geografia (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/geografia/"
+        },
+        {
+          "nome": "História (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/historia/"
+        },
+        {
+          "nome": "Letras – Língua Portuguesa (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/letras-lingua-portuguesa/"
+        },
+        {
+          "nome": "Letras (Espanhol)(Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/letras-espanhol/"
+        },
+        {
+          "nome": "Letras (Inglês)(Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/letras-ingles/"
+        },
+        {
+          "nome": "Matemática (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/matematica/"
+        },
+        {
+          "nome": "Formação Pedagógica em Pedagogia (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/pedagogia/"
+        },
+        {
+          "nome": "Química (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/quimica/"
+        },
+        {
+          "nome": "Sociologia (Gamaliel)",
+          "grau": "Licenciatura",
+          "duracao": "3 Semestres",
+          "modalidade": "A Distância",
+          "ppc": "https://faculdadegamaliel.com.br/cursos/sociologia/"
+        }
       ],
       "informacoes": [
         "Rua Gamaliel, Nº 11 Jardim Marilucy -  Tucuruí- PA - CEP: 68.459-490",
         "https://www.google.com.br/maps/dir/-3.7590857,-49.6694446/Gamaliel+Virtual+R.+Um,+S%2Fn%C2%BA,+Bairro+Jardim+Marilucy,/@-3.7691926,-49.6803373,15z/data=!3m1!4b1!4m15!1m6!3m5!1s0x92bf8cc1383b47ad:0x778146ef09a7c263!2sGamaliel+Virtual!8m2!3d-3.7793424!4d-49.6751432!4m7!1m0!1m5!1m1!1s0x92bf8cc1383b47ad:0x778146ef09a7c263!2m2!1d-49.6751432!2d-3.7793424",
         "(94) 3778-9096",
-        "ouvidoria@gamalielvirtual.com.br"
+        "https://faculdadegamaliel.com.br/"
       ]
     },
     {
       "nome": "Cruzeiro do Sul",
       "cursos": [
         {
-          "nome": "Administração",
+          "nome": "Administração (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/administracao/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/administracao/"
         },
         {
-          "nome": "Administração 2.0",
+          "nome": "Administração 2.0 (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/administracao-2-0/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/administracao-2-0/"
         },
         {
-          "nome": "Análise e Desenvolvimento de Sistemas",
-          "grau": "Tecnólogo",
+          "nome": "Administração (EAD 4.0i)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
           "duracao": "2 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/analise-e-desenvolvimento-de-sistemas-tecnologico/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/administracao-ead-4-0i/"
         },
         {
-          "nome": "Artes Visuais",
-          "grau": "Licenciatura",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/artes-visuais/tucurui-jd-marilucy-pa"
-        },
-           {
-          "nome": "Artes Visuais 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/artes-visuais-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Banco de Dados",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/banco-de-dados-tecnologico/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Ciência da Computação",
+          "nome": "Administração Pública (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/administracao-publica/"
         },
         {
-          "nome": "Ciências de Dados",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-de-dados-tecnologico/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Ciências Biológicas",
+          "nome": "Artes Visuais (Cruzeiro do Sul)",
           "grau": "Licenciatura",
           "duracao": "3 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-biologicas-licenciatura/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/artes-visuais/"
         },
-          {
-          "nome": "Ciências Biológicas 2.0",
+        {
+          "nome": "Artes Visuais 2.0 (Cruzeiro do Sul)",
           "grau": "Licenciatura",
           "duracao": "1 Ano",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-biologicas-2-0-licenciatura/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/artes-visuais-2-0/"
         },
         {
-          "nome": "Ciências Contábeis",
+          "nome": "Ciência da Computação (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-contabeis-2-0/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-da-computacao/"
         },
         {
-          "nome": "Ciências Sociais",
-          "grau": "Licenciatura",
+          "nome": "Ciência Política (Cruzeiro do Sul)",
+          "grau": "Bacharel",
           "duracao": "3 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-sociais/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Ciências Sociais 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-sociais-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Comercio Exterior",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/comercio-exterior-tecnologico/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Design de Interiores",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/design-de-interiores-tecnologico/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Design de Produto",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/design-de-produto-tecnologico/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Design de Gráfico",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/design-grafico-tecnologico/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencia-politica/"
         },
         {
-          "nome": "Educação Especial",
+          "nome": "Ciências Biológicas (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-biologicas-bacharelado/"
+        },
+        {
+          "nome": "Ciências Biológicas (Cruzeiro do Sul)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/educacao-especial-licenciaura/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-biologicas/"
         },
-         {
-          "nome": "Educação Física",
+        {
+          "nome": "Ciências Biológicas 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-biologicas-2-0/"
+        },
+        {
+          "nome": "Ciências Contábeis (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/educacao-fisica-bacharelado/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-contabeis/"
         },
         {
-          "nome": "Educação Física",
-          "grau": "Licenciatura",
-          "duracao": "4 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/educacao-fisica-licenciatura/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Empreendedorismo",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/empreendedorismo-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Engenharia Ambiental",
-          "grau": "Bacharel",
-          "duracao": "5 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-ambiental/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Engenharia de Computação",
-          "grau": "Bacharel",
-          "duracao": "5 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://cruzeirodosulvirtual.com.br/graduacao/engenharia-de-computacao/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Engenharia de Produção",
-          "grau": "Bacharel",
-          "duracao": "5 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-producao/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Engenharia de Software",
-          "grau": "Bacharel",
-          "duracao": "5 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-software/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Estética e Cosmética",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/estetica-e-cosmetica-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Filosofia",
-          "grau": "Licenciatura",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/filosofia/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Filosofia 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/filosofia-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        },
-             {
-          "nome": "Filosofia 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/filosofia-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        },
-             {
-          "nome": "Fisica",
-          "grau": "Licenciatura",
-          "duracao": "4 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/fisica-licenciatura/tucurui-jd-marilucy-pa"
-        },
-             {
-          "nome": "Formação Pedagógica para Graduados não Licenciados em Biologia",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-biologia/tucurui-jd-marilucy-pa"
-        },
-             {
-          "nome": "Formação Pedagógica para Graduados não Licenciados em Física ",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-fisica/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Formação Pedagógica para Graduados não Licenciados em Geografia",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-geografia/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Formação Pedagógica para Graduados não Licenciados em História",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-historia/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Formação Pedagógica para Graduados não Licenciados em Matemática",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-matematica/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Formação Pedagógica para Graduados não Licenciados em Português",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-portugues/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Formação Pedagógica para Graduados não Licenciados em Química",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-quimica/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Fotografia",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/fotografia-tecnologico/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Gastronomia",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gastronomia-tecnologico/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Geografia",
-          "grau": "Licenciatura",
-          "duracao": "4 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/geografia-licenciatura/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Geografia 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/geografia-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Gestão Ambiental",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-ambiental-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Gestão Comercial",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-comercial-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Gestão de Agronegócio",
-          "grau": "Tecnólogo",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-de-agronegocio-tecnologico/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Gestão de Qualidade",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/gestao-de-qualidade-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Gestão de Recursos Humanos",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-de-recursos-humanos-tecnologico/tucurui-jd-marilucy-pa"
-        },   {
-          "nome": "Gestão de Segurança Privada",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-de-seguranca-privada-tecnologico/tucurui-jd-marilucy-pa"
-        },
-           {
-          "nome": "Gestão de TI",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-de-ti-tecnologico/tucurui-jd-marilucy-pa"
-        },
-          {
-          "nome": "Gestão de Sportiva e de Lazer",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-desportiva-e-de-lazer-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Gestão Financeira",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-financeira-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Gestão Hospitalar",
-          "grau": "Tecnólogo",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-hospitalar-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Gestão Pública",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/gestao-publica-tecnologico/tucurui-jd-marilucy-pa "
-        },
-        {
-          "nome": "História",
-          "grau": "Licenciatura",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/historia-licenciatura/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "História 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/historia-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Jogos Digitais",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/jogos-digitais-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Jornalismo",
+          "nome": "Ciências Contábeis 2.0 (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/jornalismo-bacharelado/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-contabeis-2-0/"
         },
         {
-          "nome": "Letras - Português e Inglês",
-          "grau": "Licenciatura",
-          "duracao": "3 Anos",
+          "nome": "Ciências Contábeis (EAD 4.0i) (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-ingles-licenciatura/tucurui-jd-marilucy-pa"
-        }, 
-         {
-          "nome": "Letras - Português e Inglês 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-ingles-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        }, 
-        {
-          "nome": "Letras - Português e Espanhol",
-          "grau": "Licenciatura",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-espanhol-licenciatura/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-contabeis-ead-4-0i/"
         },
         {
-          "nome": "Letras - Português e Espanhol 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
+          "nome": "Ciências Econômicas 2.0 (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-espanhol-2-0-licenciatura/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-economicas-2-0/"
         },
         {
-          "nome": "Letras - Português e Japonês",
+          "nome": "Ciências Econômicas (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-economicas/"
+        },
+        {
+          "nome": "Ciências Econômicas (EAD 4.0i) (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-economicas-ead-4-0i/"
+        },
+        {
+          "nome": "Ciências Sociais (Cruzeiro do Sul)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-japones-licenciatura/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-sociais/"
         },
         {
-          "nome": "Logística",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/logistica-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Marketing",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/marketing-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Matemática",
+          "nome": "Ciências Sociais 2.0 (Cruzeiro do Sul)",
           "grau": "Licenciatura",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/matematica-licenciatura/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Matemática 2.0",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/matematica-2-0-licenciatura/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Pedagogia",
-          "grau": "Licenciatura",
-          "duracao": "3 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http:// www.cruzeirodosulvirtual.com.br/graduacao/pedagogia-licenciatura/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Pedagogia (Para Licenciados)",
-          "grau": "Licenciatura",
-          "duracao": "1 Ano",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/pedagogia-para-licenciados-licenciatura/tucurui-jd-marilucy-pa"
-        },
-       {
-          "nome": "Produção Cultural",
-          "grau": "Tecnólogo",
           "duracao": "3 Ano",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/processos-gerenciais-tecnologico/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/ciencias-sociais-2-0/"
         },
         {
-          "nome": "Processos Gerenciais",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/producao-cultural-tecnologico/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Publicidade e Propaganda",
-          "grau": "Bacharel",
-          "duracao": "4 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/publicidade-e-propaganda-bacharelado/tucurui-jd-marilucy-pa"
-        },
-         {
-          "nome": "Química",
+          "nome": "Educação Especial (Cruzeiro do Sul)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/quimica-licenciatura/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/educacao-especial/"
         },
         {
-          "nome": "Redes de Computadores",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/redes-de-computadores-tecnologico/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Relações Públicas",
+          "nome": "Educação Física (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/relacoes-publicas-bacharelado/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/educacao-fisica-bacharelado/"
         },
         {
-          "nome": "Secretariado",
-          "grau": "Tecnólogo",
-          "duracao": "2 Anos",
+          "nome": "Educação Física (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/secretariado-tecnologico/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/educacao-fisica-licenciatura"
         },
         {
-          "nome": "Segurança no Trabalho",
-          "grau": "Tecnólogo",
+          "nome": "Educação Fisica 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/educacao-fisica-2-0/"
+        },
+        {
+          "nome": "Engenharia Ambiental (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-ambiental/"
+        },
+        {
+          "nome": "Engenharia Ambiental 2.0 (P/ Egres Eng Produção, Elétr e Mecânica)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-ambiental-2-0-egressos-eng-producao-eletr-mecanica/"
+        },
+        {
+          "nome": "Engenharia Ambiental 2.0 (Para Egressos de Eng. Civil)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-ambiental-2-0-egressos-eng-civil/"
+        },
+        {
+          "nome": "Engenharia Ambiental 2.0 (Para Egressos de Gestão Ambiental)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-ambiental-2-0-egressos-gestao-ambiental/"
+        },
+        {
+          "nome": "Engenharia de Computação (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-computacao/"
+        },
+        {
+          "nome": "Engenharia de Produção (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-producao"
+        },
+        {
+          "nome": "Engenharia de Produção 2.0 (P/ Egres Eng Civil, Elétr e Mecânica)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-producao-2-0-egressos-eng-civil-eletr-mecanica/"
+        },
+        {
+          "nome": "Engenharia de Produção 2.0 (P/ Egressos de Eng. Ambiental)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-producao-2-0-egressos-eng-ambiental/"
+        },
+        {
+          "nome": "Engenharia de Produção 2.0 (Para Egressos de CST em GPI)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-producao-2-0-egressos-cst-em-gpi/"
+        },
+        {
+          "nome": "Engenharia de Software (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "5 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/engenharia-de-software/"
+        },
+        {
+          "nome": "Filosofia (Cruzeiro do Sul)",
+          "grau": "Bacharel",
           "duracao": "3 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/seguranca-no-trabalho-tecnologico/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/filosofia-bacharelado/"
         },
         {
-          "nome": "Serviço Social",
-          "grau": "Bacharel",
+          "nome": "Filosofia (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/servico-social/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/filosofia/"
         },
         {
-          "nome": "Serviços Jurídicos e Notariais",
-          "grau": "Bacharel",
-          "duracao": "4 Anos",
+          "nome": "Filosofia 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/servicos-juridicos-e-notariais-tecnologico/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/filosofia-2-0/"
         },
         {
-          "nome": "Sistema de Informação",
-          "grau": "Bacharel",
-          "duracao": "4 Anos",
-          "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/sistemas-de-informacao/tucurui-jd-marilucy-pa"
-        },
-        {
-          "nome": "Teologia",
+          "nome": "Física (Cruzeiro do Sul)",
           "grau": "Bacharel",
           "duracao": "3 Anos",
           "modalidade": "A Distância",
-          "ppc": "http://www.cruzeirodosulvirtual.com.br/graduacao/teologia/tucurui-jd-marilucy-pa"
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/fisica-bacharelado/"
+        },
+        {
+          "nome": "Física (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/fisica/"
+        },
+        {
+          "nome": "Formação Pedagógica para Graduados não Licenciados em Biologia (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "1 Ano",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-biologia/"
+        },
+        {
+          "nome": "Formação Pedagógica para Graduados não Licenciados em Física (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "1 Ano",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-fisica/"
+        },
+        {
+          "nome": "Formação Pedagógica para Graduados não Licenciados em Geografia (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "1 Ano",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/formacao-pedagogica/form-ped-grad-nao-licenciados-geografia"
+        },
+         {
+          "nome": "Formação Pedagógica para Graduados não Licenciados em História (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "1 Ano",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-historia/"
+        },
+         {
+          "nome": "Formação Pedagógica para Graduados não Licenciados em Matemática (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "1 Ano",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-matematica/"
+        },
+         {
+          "nome": "Formação Pedagógica para Graduados não Licenciados em Português (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "1 Ano",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-portugues/"
+        },
+         {
+          "nome": "Formação Pedagógica para Graduados não Licenciados em Química (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "1 Ano",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/form-ped-grad-nao-licenciados-quimica/"
+        },
+        {
+          "nome": "Geografia (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/geografia-bacharelado/"
+        },
+        {
+          "nome": "Geografia (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/geografia/"
+        },
+         {
+          "nome": "Geografia 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/geografia-2-0/"
+        },
+        {
+          "nome": "História (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/historia-bacharelado/"
+        },
+        {
+          "nome": "História (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/historia/"
+        },
+        {
+          "nome": "História 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/historia-2-0/"
+        },
+        {
+          "nome": "Jornalismo (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/jornalismo/"
+        },
+        {
+          "nome": "Letras - Português e Inglês (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-ingles-licenciatura/"
+        }, 
+        {
+          "nome": "Letras - Português e Inglês 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-ingles-2-0/"
+        }, 
+        {
+          "nome": "Letras - Português e Espanhol (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-espanhol/"
+        },
+        {
+          "nome": "Letras - Português e Espanhol 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-espanhol-2-0/"
+        },
+        {
+          "nome": "Letras - Português e Japonês (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/letras-portugues-e-japones/"
+        },
+        {
+          "nome": "Matemática (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/matematica-bacharelado/"
+        },
+        {
+          "nome": "Matemática (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/matematica/"
+        },
+        {
+          "nome": "Matemática 2.0 (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/matematica-2-0/"
+        },
+        {
+          "nome": "Pedagogia (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/pedagogia/"
+        },
+        {
+          "nome": "Pedagogia (EAD 4.0i)(Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/pedagogia-ead-4-0i/"
+        },
+        {
+          "nome": "Pedagogia (Para Licenciados)(Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/pedagogia-licenciados-licenciatura/"
+        },
+        {
+          "nome": "Psicopedagogia (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/psicopedagogia/"
+        },
+        {
+          "nome": "Publicidade e Propaganda (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/publicidade-propaganda/"
+        },
+        {
+          "nome": "Química (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/quimica-bacharelado"
+        },
+        {
+          "nome": "Química (Cruzeiro do Sul)",
+          "grau": "Licenciatura",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/quimica/"
+        },
+        {
+          "nome": "Relações Internacionais (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/relacoes-internacionais/"
+        },
+        {
+          "nome": "Relações Internacionais (EAD 4.0i)(Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/relacoes-internacionais-ead-4-0i/"
+        },
+        {
+          "nome": "Relações Públicas (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/relacoes-publicas/"
+        },
+        {
+          "nome": "Serviço Social (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/servico-social/"
+        },
+        {
+          "nome": "Sistemas de Informação (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "4 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/sistemas-de-informacao/"
+        },
+        {
+          "nome": "Teologia (Cruzeiro do Sul)",
+          "grau": "Bacharel",
+          "duracao": "3 Anos",
+          "modalidade": "A Distância",
+          "ppc": "https://www.cruzeirodosulvirtual.com.br/graduacao/teologia/"
         }
       ],
       "informacoes": [
         "AVENIDA RAIMUNDO VERIDIANO CARDOSO, 78 - CENTRO (BELA VISTA) - TUCURUÍ/PA CEP 68456-760 ",
         "www.google.com.br/maps/place/Cruzeiro+do+Sul+Virtual+(Polo+Tucuru%C3%AD)%2FSisinove+Interativa/@-3.7688595,-49.6715845,17z/data=!3m1!4b1!4m5!3m4!1s0x92bf8d77b119736f:0xcac5f866171d097a!8m2!3d-3.7688595!4d-49.6715845",
         "(94) 9 9124-7323 / (94) 9 8140-0048",
-        "https://www.cruzeirodosulvirtual.com.br/polo/tucurui-jd-marilucy-pa"
+        "https://www.cruzeirodosulvirtual.com.br/polo/tucurui-centro-bela-vista-pa/?tipo-de-curso=Gradua%C3%A7%C3%A3o%21&ancora=CursosPolo&pagina=2&paginas=9"
       ]
     },
     {
       "nome": "Universidade Anhanguera - UNIDERP",
       "cursos": [
         {
-          "nome": "Administração",
+          "nome": "Administração (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/administracao.php"
         },
         {
-          "nome": "Agronomia",
+          "nome": "Agronomia (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/agronomia.php"
         },
         {
-          "nome": "Análise e Desenvolvimento de Sistemas",
+          "nome": "Análise e Desenvolvimento de Sistemas (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas.php"
         },
         {
-          "nome": "Arquitetura e Urbanismo",
+          "nome": "Arquitetura e Urbanismo (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/arquitetura-e-urbanismo.php"
         },
         {
-          "nome": "Artes Visuais",
+          "nome": "Artes Visuais (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/artes-visuais-licenciatura.php"
         },
         {
-          "nome": "Biomedicina",
+          "nome": "Biomedicina (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/biomedicina.php"
         },
         {
-          "nome": "Ciências Biológicas",
+          "nome": "Ciências Biológicas (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/ciencias-biologicas-licenciatura.php"
         },
         {
-          "nome": "Ciências Contábeis",
+          "nome": "Ciências Contábeis (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/cursos.php"
         },
         {
-          "nome": "Ciências Econômicas",
+          "nome": "Ciências Econômicas (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/ciencias_economicas_bach.php"
         },
         {
-          "nome": "Comércio Exterior",
+          "nome": "Comércio Exterior (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-comercio-exterior.php"
         },
         {
-          "nome": "Educação Física",
+          "nome": "Educação Física (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/educacao-fisica-licenciatura.php"
         },
         {
-          "nome": "Empreendedorismo",
+          "nome": "Empreendedorismo (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-empreendedorismo.php"
         },
         {
-          "nome": "Enfermagem",
+          "nome": "Enfermagem (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/enfermagem.php"
         },
         {
-          "nome": "Engenharia Civil",
+          "nome": "Engenharia Civil (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/engenharia-civil.php"
         },
         {
-          "nome": "Engenharia de Computação",
+          "nome": "Engenharia de Computação (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/engenharia-da-computacao.php"
         },
         {
-          "nome": "Engenharia de Produção",
+          "nome": "Engenharia de Produção (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/engenharia-de-producao.php"
         },
         {
-          "nome": "Filosofia",
+          "nome": "Filosofia (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/filosofia-licenciatura.php"
         },
         {
-          "nome": "Fisioterapia",
+          "nome": "Fisioterapia (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "5 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/fisioterapia.php"
         },
         {
-          "nome": "Geografia",
+          "nome": "Geografia (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/geografia-licenciatura.php"
         },
         {
-          "nome": "Gestão Ambiental",
+          "nome": "Gestão Ambiental (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-em-tecnologia-em-gestao-ambiental.php"
         },
         {
-          "nome": "Gestão Comercial",
+          "nome": "Gestão Comercial (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-gestao-comercial.php"
         },
         {
-          "nome": "Gestão de Produção Industrial",
+          "nome": "Gestão de Produção Industrial (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-gestao-de-producao-industrial.php"
         },
         {
-          "nome": "Gestão de Recursos Humanos",
+          "nome": "Gestão de Recursos Humanos (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-gestao-de-recursos-humanos.php"
         },
         {
-          "nome": "Gestão de Turismo",
+          "nome": "Gestão de Turismo (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/tecnologia_gestao_turismo.php"
         },
         {
-          "nome": "Gestão Financeira",
+          "nome": "Gestão Financeira (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-gestao-financeira.php"
         },
         {
-          "nome": "Gestão Hospitalar",
+          "nome": "Gestão Hospitalar (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-gestao-hospitalar.php"
         },
         {
-          "nome": "Gestão Pública",
+          "nome": "Gestão Pública (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-gestao-publica.php"
         },
         {
-          "nome": "História",
+          "nome": "História (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/historia-licenciatura.php"
         },
         {
-          "nome": "Letras - Português",
+          "nome": "Letras - Português (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/localidades/polo-tucurui-pa"
         },
         {
-          "nome": "Letras - Português e Inglês",
+          "nome": "Letras - Português e Inglês (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/letras-portugues-e-ingles.php"
         },
         {
-          "nome": "Letras - Português e Espanhol",
+          "nome": "Letras - Português e Espanhol (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/letr_port_esp.php"
         },
         {
-          "nome": "Logística",
+          "nome": "Logística (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-logistica.php"
         },
         {
-          "nome": "Marketing",
+          "nome": "Marketing (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-marketing.php"
         },
         {
-          "nome": "Marketing Digital",
+          "nome": "Marketing Digital (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-marketing-digital.php"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/matematica-licenciatura.php"
         },
         {
-          "nome": "Nutrição",
+          "nome": "Nutrição (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/nutricao.php"
         },
         {
-          "nome": "Pedagogia",
+          "nome": "Pedagogia (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/pedagogia-licenciatura.php"
         },
         {
-          "nome": "Processos Gerenciais",
+          "nome": "Processos Gerenciais (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-processos-gerenciais.php"
         },
         {
-          "nome": "Segurança no Trabalho",
+          "nome": "Segurança no Trabalho (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "3 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/tecnologia_seguranca_trabalho.php"
         },
         {
-          "nome": "Segurança Pública",
+          "nome": "Segurança Pública (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-seguranca-publica.php"
         },
         {
-          "nome": "Serviço Social",
+          "nome": "Serviço Social (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/servico-social.php"
         },
         {
-          "nome": "Serviços Jurídicos, Cartorários e Notariais",
+          "nome": "Serviços Jurídicos, Cartorários e Notariais (UNIDERP)",
           "grau": "Tecnólogo",
           "duracao": "2 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/superior-de-tecnologia-em-servicos-juridicos-cartorarios-e-notariais.php"
         },
         {
-          "nome": "Sociologia",
+          "nome": "Sociologia (UNIDERP)",
           "grau": "Licenciatura",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
           "ppc": "http://www.anhanguera.com/graduacao/cursos/sociologia-licenciatura.php"
         },
         {
-          "nome": "Teologia",
+          "nome": "Teologia (UNIDERP)",
           "grau": "Bacharel",
           "duracao": "4 Anos",
           "modalidade": "Semipresencial/A Distância",
@@ -1817,28 +2011,28 @@
       "nome": "IFPA",
       "cursos": [
         {
-          "nome": "Engenharia Sanitária e Ambiental",
+          "nome": "Engenharia Sanitária e Ambiental (IFPA)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "5 Anos",
           "ppc": "http://tucurui.ifpa.edu.br/cursos/148-cursos-superiores/engenharia-sanitaria-e-ambiental"
         },
         {
-          "nome": "Ciências Biológicas",
+          "nome": "Ciências Biológicas (IFPA)",
           "grau": "Licenciatura",
           "modalidade": "Presencial",
           "duracao": "4 Anos",
           "ppc": "http://tucurui.ifpa.edu.br/cursos/85-cursos-superiores/licenciatura-em-ciencias-biologicas"
         },
         {
-          "nome": "Redes de Computadores",
+          "nome": "Redes de Computadores (IFPA)",
           "grau": "Tecnólogo",
           "modalidade": "Presencial",
           "duracao": "3 Anos",
           "ppc": "http://tucurui.ifpa.edu.br/cursos/87-cursos-superiores/tecnologia-em-redes-de-computadores"
         },
         {
-          "nome": "Saneamento Ambiental ",
+          "nome": "Saneamento Ambiental (IFPA)",
           "grau": "Tecnólogo",
           "modalidade": "Presencial",
           "duracao": "3 Anos",
@@ -1856,623 +2050,623 @@
       "nome": "UNINTER",
       "cursos": [
         {
-          "nome": "Artes Visuais",
+          "nome": "Artes Visuais (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
-          "duracao": "3 Anos",
+          "duracao": "4 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-artes-visuais/"
         },
         {
-          "nome": "Artes Visuais",
+          "nome": "Artes Visuais (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-artes-visuais-licenciatura/"
         },
         {
-          "nome": "Ciências Biológicas",
+          "nome": "Ciências Biológicas (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-ciencias-biologicas-bacharelado/"
         },
         {
-          "nome": "Ciências Biológicas ",
+          "nome": "Ciências Biológicas (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-ciencias-biologicas-licenciatura/"
         },
         {
-          "nome": "Ciências da Religião",
+          "nome": "Ciências da Religião (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-ciencias-da-religiao/"
         },
         {
-          "nome": "Educação Especial",
+          "nome": "Educação Especial (UNINTER)",
           "grau": "Licenciatura ",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-educacao-especial/"
         },
         {
-          "nome": "Educação Física",
+          "nome": "Educação Física (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "4 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-educacao-fisica-bacharelado/"
         },
         {
-          "nome": "Educação Física ",
+          "nome": "Educação Física (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "4 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-educacao-fisica-licenciatura/"
         },
         {
-          "nome": "Filosofia  ",
+          "nome": "Filosofia (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-filosofia-bacharelado/"
         },
         {
-          "nome": "Filosofia ",
+          "nome": "Filosofia (UNINTER)",
           "grau": "Formação Pedagógica",
           "modalidade": "A distância",
           "duracao": "16 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/filosofia-formacao-pedagogica/"
         },
         {
-          "nome": "Filosofia ",
+          "nome": "Filosofia (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-filosofia-licenciatura/"
         },
         {
-          "nome": "Filosofia",
+          "nome": "Filosofia (UNINTER)",
           "grau": "Segunda Licenciatura",
           "modalidade": "A distância",
           "duracao": "1 Ano",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/filosofia-segunda-licenciatura/"
         },
         {
-          "nome": "Física",
+          "nome": "Física (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-fisica-bacharelado/"
         },
         {
-          "nome": "Física",
+          "nome": "Física (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-fisica-licenciatura/"
         },
         {
-          "nome": "Geografia",
+          "nome": "Geografia (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-geografia-bacharelado/"
         },
         {
-          "nome": "Geografia",
+          "nome": "Geografia (UNINTER)",
           "grau": "Formação Pedagógica ",
           "modalidade": "A distância",
           "duracao": "16 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-geografia-formacao-pedagogica/"
         },
         {
-          "nome": "Geografia",
+          "nome": "Geografia (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-geografia-licenciatura/ "
         },
         {
-          "nome": "Geografia  ",
+          "nome": "Geografia (UNINTER)",
           "grau": "Segunda Licenciatura",
           "modalidade": "A distância",
           "duracao": "1 Ano",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-geografia-segunda-licenciatura/"
         },
         {
-          "nome": "História  ",
+          "nome": "História (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-historia-bacharelado/"
         },
         {
-          "nome": "História ",
+          "nome": "História (UNINTER)",
           "grau": "Formação Pedagógica",
           "modalidade": "A distância",
           "duracao": "16 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-historia-formacao-pedagogica/"
         },
         {
-          "nome": "História ",
+          "nome": "História (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-historia-licenciatura/"
         },
         {
-          "nome": "História ",
+          "nome": "História (UNINTER)",
           "grau": "Segunda Licenciatura",
           "modalidade": "A distância",
           "duracao": "1 Ano",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-historia-segunda-licenciatura/"
         },
         {
-          "nome": "Letras",
+          "nome": "Letras (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-letras-bacharelado/"
         },
         {
-          "nome": "Letras  ",
+          "nome": "Letras (UNINTER)",
           "grau": "Formação Pedagógica",
           "modalidade": "A distância",
           "duracao": "16 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-letras-formacao-pedagogica/"
         },
         {
-          "nome": "Letras",
+          "nome": "Letras (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-letras-licenciatura/"
         },
         {
-          "nome": "Letras",
+          "nome": "Letras (UNINTER)",
           "grau": "Segunda Licenciatura ",
           "modalidade": "A distância",
           "duracao": "1 Ano",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-letras-segunda-licenciatura/"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-matematica-bacharelado/"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (UNINTER)",
           "grau": "Formação Pedagógica",
           "modalidade": "A distância",
           "duracao": "16 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-matematica-formacao-pedagogica/"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-matematica-licenciatura/"
         },
         {
-          "nome": "Matemática",
+          "nome": "Matemática (UNINTER)",
           "grau": "Segunda Licenciatura",
           "modalidade": "A distância",
           "duracao": "1 Ano",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-matematica-segunda-licenciatura/"
         },
         {
-          "nome": "Música",
+          "nome": "Música (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/musica/"
         },
         {
-          "nome": "Pedagogia",
+          "nome": "Pedagogia (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "4 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-pedagogia/"
         },
         {
-          "nome": "Pedagogia",
+          "nome": "Pedagogia (UNINTER)",
           "grau": "Segunda Licenciatura",
           "modalidade": "A distância",
           "duracao": "1 Ano",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-pedagogia-segunda-licenciatura/"
         },
         {
-          "nome": "Psicopedagogia",
+          "nome": "Psicopedagogia (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-psicopedagogia/?rel=0"
         },
         {
-          "nome": "Psicopedagogia",
+          "nome": "Psicopedagogia (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-psicopedagogia-licenciatura/"
         },
         {
-          "nome": "Química",
+          "nome": "Química (UNINTER)",
           "grau": "Bacharelado ",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-quimica-bacharelado/"
         },
         {
-          "nome": "Química",
+          "nome": "Química (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-quimica-licenciatura/"
         },
         {
-          "nome": "Sociologia",
+          "nome": "Sociologia (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-sociologia-bacharelado/"
         },
         {
-          "nome": "Sociologia",
+          "nome": "Sociologia (UNINTER)",
           "grau": "Licenciatura",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-sociologia-licenciatura/"
         },
         {
-          "nome": "Teologia Bíblica Intercofessional",
+          "nome": "Teologia Bíblica Intercofessional (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-teologia-biblica-interconfessional/"
         },
         {
-          "nome": "Teologia Católica",
+          "nome": "Teologia Católica (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-teologia-catolica/"
         },
         {
-          "nome": "Ciência Política",
+          "nome": "Ciência Política (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-ciencia-politica/"
         },
         {
-          "nome": "Gestão da Segurança e Defesa Cibernética",
+          "nome": "Gestão da Segurança e Defesa Cibernética (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-em-seguranca-e-defesa-cibernetica/"
         },
         {
-          "nome": "Gestão de Segurança Privada",
+          "nome": "Gestão de Segurança Privada (UNINTER)",
           "grau": "Tecnólogo ",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-de-seguranca-privada/"
         },
         {
-          "nome": "Gestão de Serviços Jurídicos e Notariais",
+          "nome": "Gestão de Serviços Jurídicos e Notariais (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-de-servicos-juridicos-e-notariais/"
         },
         {
-          "nome": "Gestão do Trânsito e Mobilidade Urbana",
+          "nome": "Gestão do Trânsito e Mobilidade Urbana (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-do-transito-e-mobilidade-urbana/"
         },
         {
-          "nome": "Gestão Pública",
+          "nome": "Gestão Pública (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-publica/"
         },
         {
-          "nome": "Investigação Profissional (Detetive Particular)",
+          "nome": "Investigação Profissional (Detetive Particular) (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-investigacao-profissional/"
         },
         {
-          "nome": "Relações Internacionais",
+          "nome": "Relações Internacionais (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-relacoes-internacionais/"
         },
         {
-          "nome": "Segurança Pública",
+          "nome": "Segurança Pública (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-seguranca-publica/"
         },
         {
-          "nome": "Administração",
+          "nome": "Administração (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "4 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-administracao/"
         },
         {
-          "nome": "Assessoria Executiva Digital",
+          "nome": "Assessoria Executiva Digital (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-assessoria-executiva-digital/"
         },
         {
-          "nome": "Blockchain, Criptomoedas e Finanças na Era Digital",
+          "nome": "Blockchain, Criptomoedas e Finanças na Era Digital (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-blockchain-criptomoedas-e-financas-na-era-digital/?rel=0"
         },
         {
-          "nome": "Ciências Contábeis",
+          "nome": "Ciências Contábeis (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "4 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-ciencias-contabeis/"
         },
         {
-          "nome": "Coaching e Desenvolvimento Humano",
+          "nome": "Coaching e Desenvolvimento Humano (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-coaching-e-desenvolvimento-humano/"
         },
         {
-          "nome": "Comércio Exterior",
+          "nome": "Comércio Exterior (UNINTER)",
           "grau": "Tecnólogo ",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-comercio-exterior/"
         },
         {
-          "nome": "Gestão Comercial",
+          "nome": "Gestão Comercial (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-comercial/"
         },
         {
-          "nome": "Gestão de Recursos Humanos",
+          "nome": "Gestão de Recursos Humanos (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-de-recursos-humanos/"
         },
         {
-          "nome": "Gestão de Startups e Empreendedorismo Digital",
+          "nome": "Gestão de Startups e Empreendedorismo Digital (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-de-startups-e-empreendedorismo-digital/"
         },
         {
-          "nome": "Gestão de Turismo",
+          "nome": "Gestão de Turismo (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-de-turismo/"
         },
         {
-          "nome": "Gestão do E-Commerce e Sistemas Logísticos",
+          "nome": "Gestão do E-Commerce e Sistemas Logísticos (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-do-e-commerce-e-sistemas-logisticos/"
         },
         {
-          "nome": "Gestão Empreendedora de Serviços",
+          "nome": "Gestão Empreendedora de Serviços (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-empreendedora-de-servicos/"
         },
         {
-          "nome": "Gestão Estratégica Empresarial",
+          "nome": "Gestão Estratégica Empresarial (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-estrategica-empresarial/"
         },
         {
-          "nome": "Gestão Financeira",
+          "nome": "Gestão Financeira (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-financeira/"
         },
         {
-          "nome": "Gestão Global Trading: Negócios, Logística e Finanças Globais",
+          "nome": "Gestão Global Trading: Negócios, Logística e Finanças Globais (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-global-trading-negocios-logistica-e-financas-globais/"
         },
         {
-          "nome": "Jornalismo",
+          "nome": "Jornalismo (UNINTER)",
           "grau": "Bacharelado ",
           "modalidade": "A distância",
           "duracao": "4 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-jornalismo/"
         },
         {
-          "nome": "Logística",
+          "nome": "Logística (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-logistica/"
         },
         {
-          "nome": "Marketing ",
+          "nome": "Marketing (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-marketing/"
         },
         {
-          "nome": "Marketing Digital",
+          "nome": "Marketing Digital (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "http:// https://www.uninter.com/mkt-digital-ead/"
         },
         {
-          "nome": "Negócios Digitais",
+          "nome": "Negócios Digitais (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-negocios-digitais/"
         },
         {
-          "nome": "Processos Gerenciais",
+          "nome": "Processos Gerenciais (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-processos-gerenciais/"
         },
         {
-          "nome": "Publicidade e Propaganda",
+          "nome": "Publicidade e Propaganda (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "3 Anos e 6 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-publicidade-e-propaganda/"
         },
         {
-          "nome": "Secretariado",
+          "nome": "Secretariado (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-secretariado/"
         },
         {
-          "nome": "Varejo Digital",
+          "nome": "Varejo Digital (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-varejo-digital/"
         },
         {
-          "nome": "Análise e Desenvolvimento de Sistemas",
+          "nome": "Análise e Desenvolvimento de Sistemas (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos e 6 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-analise-e-desenvolvimento-de-sistemas/"
         },
         {
-          "nome": "Engenharia da Computação",
+          "nome": "Engenharia da Computação (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "5 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-engenharia-da-computacao/"
         },
         {
-          "nome": "Engenharia de Produção",
+          "nome": "Engenharia de Produção (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "5 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-engenharia-de-producao/"
         },
         {
-          "nome": "Engenharia Elétrica - Habilitação em Eletrônica",
+          "nome": "Engenharia Elétrica - Habilitação em Eletrônica (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "5 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-engenharia-eletrica-habilitacao-em-eletronica/"
         },
         {
-          "nome": "Gestão da Produção Industrial",
+          "nome": "Gestão da Produção Industrial (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos e 6 meses",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-gestao-da-producao-industrial/"
         },
         {
-          "nome": "Gestão da Tecnologia da Informação",
+          "nome": "Gestão da Tecnologia da Informação (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos e 6 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-da-tecnologia-da-informacao/"
         },
         {
-          "nome": "Educador Social",
+          "nome": "Educador Social (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-educador-social/"
         },
         {
-          "nome": "Gerontologia - Cuidado ao Idoso",
+          "nome": "Gerontologia - Cuidado ao Idoso (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "http:// https://www.uninter.com/graduacao-ead/curso-gerontologia/"
         },
         {
-          "nome": "Gestão Ambiental ",
+          "nome": "Gestão Ambiental (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-ambiental/"
         },
         {
-          "nome": "Gestão das Organizações do Terceiro Setor",
+          "nome": "Gestão das Organizações do Terceiro Setor (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/gestao-de-organizacoes-do-terceiro-setor/"
         },
         {
-          "nome": "Gestão de Saúde Pública",
+          "nome": "Gestão de Saúde Pública (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-em-saude-publica/"
         },
         {
-          "nome": "Gestão em Vigilância em Saúde",
+          "nome": "Gestão em Vigilância em Saúde (UNINTER)",
           "grau": "Tecnólogo ",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-vigilancia-em-saude/"
         },
         {
-          "nome": "Gestão Hospitalar",
+          "nome": "Gestão Hospitalar (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos e 6 meses",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-gestao-hospitalar/"
         },
         {
-          "nome": "Saneamento Ambiental",
+          "nome": "Saneamento Ambiental (UNINTER)",
           "grau": "Tecnólogo",
           "modalidade": "A distância",
           "duracao": "2 Anos",
           "ppc": "https://www.uninter.com/graduacao-ead/curso-saneamento-ambiental/"
         },
         {
-          "nome": "Serviço Social",
+          "nome": "Serviço Social (UNINTER)",
           "grau": "Bacharel",
           "modalidade": "A distância",
           "duracao": "4 Anos",
@@ -2490,28 +2684,28 @@
       "nome": "UNIPLAN",
       "cursos": [
         {
-          "nome": "Administração",
+          "nome": "Administração (UNIPLAN)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "4 Anos",
           "ppc": "http://www.aquivocepode.com.br/uniplan/index.php?option=com_content&view=article&id=32&Itemid=233"
         },
         {
-          "nome": "Educação Física",
+          "nome": "Educação Física (UNIPLAN)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "4 Anos",
           "ppc": "http://www.aquivocepode.com.br/uniplan/index.php?option=com_content&view=article&id=32&Itemid=233"
         },
         {
-          "nome": "Enfermagem",
+          "nome": "Enfermagem (UNIPLAN)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "4 Anos",
           "ppc": "http://www.aquivocepode.com.br/uniplan/index.php?option=com_content&view=article&id=32&Itemid=233"
         },
         {
-          "nome": "Pedagogia",
+          "nome": "Pedagogia (UNIPLAN)",
           "grau": "Licenciatura",
           "modalidade": "Presencial",
           "duracao": "3 Anos",
@@ -2529,7 +2723,7 @@
       "nome": "UFPA",
       "cursos": [
         {
-          "nome": "Engenharia de Computação",
+          "nome": "Engenharia de Computação (UFPA)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "5 Anos",
@@ -2537,7 +2731,7 @@
           "ppc": "http://www.ppc.proeg.ufpa.br/view/_paginas/_downloadAnexoProjeto.php?id=639&idProjeto=71"
         },
         {
-          "nome": "Engenharia Sanitária e Ambiental",
+          "nome": "Engenharia Sanitária e Ambiental (UFPA)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "5 Anos",
@@ -2545,7 +2739,7 @@
           "ppc": "http://www.camtuc.ufpa.br/index.php/engenharia-sanitaria-e-ambiental"
         },
         {
-          "nome": "Engenharia Elétrica",
+          "nome": "Engenharia Elétrica (UFPA)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "5 Anos",
@@ -2553,7 +2747,7 @@
           "ppc": "http://fee.camtuc.ufpa.br/index.php"
         },
         {
-          "nome": "Engenharia Civil",
+          "nome": "Engenharia Civil (UFPA)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "5 anos",
@@ -2561,28 +2755,12 @@
           "ppc": "http://www.camtuc.ufpa.br/index.php/engenharia-civil"
         },
         {
-          "nome": "Engenharia Mecânica",
+          "nome": "Engenharia Mecânica (UFPA)",
           "grau": "Bacharel",
           "modalidade": "Presencial",
           "duracao": "5 anos",
           "periodo": "Matutino/Vespertino",
           "ppc": "http://fem.camtuc.ufpa.br/"
-        },
-        {
-          "nome": "Engenharia de Pesca",
-          "grau": "Bacharel",
-          "modalidade": "Presencial",
-          "duracao": "5 anos",
-          "periodo": "Matutino/Vespertino",
-          "ppc": "http://www.camtuc.ufpa.br/index.php/engenharia-de-pesca"
-        },
-        {
-          "nome": "Engenharia Florestal",
-          "grau": "Bacharel",
-          "modalidade": "Presencial",
-          "duracao": "5 anos",
-          "periodo": "Matutino/Vespertino",
-          "ppc": "http://www.camtuc.ufpa.br/index.php/engenharia-florestal"
         }
       ],
       "informacoes": [
